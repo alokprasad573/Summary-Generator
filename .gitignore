@@ -1,0 +1,8 @@
+# Ignore dataset CSV files
+samsum-train.csv
+samsum-test.csv
+samsum-validation.csv
+
+# Ignore model checkpoints and outputs
+models/
+results/
