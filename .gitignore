@@ -2,3 +2,12 @@
 # Ignore model checkpoints and outputs
 models/
 results/
+
+# Python caching
+__pycache__/
+
+# IDE settings
+.vscode/
+
+# Virtual Environments
+myvenv/
